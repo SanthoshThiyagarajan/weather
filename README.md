@@ -19,4 +19,3 @@ The **Weather App** is a web-based application that provides real-time weather u
 
 This project is a great addition to your portfolio, showcasing your front-end development skills and use of APIs for dynamic content.
 
-Would you like me to format this for GitHub's `README.md` file as well? 🚀
