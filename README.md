@@ -1,6 +1,4 @@
-Here’s a summary of your **Weather App** project for GitHub and your resume:
 
----
 
 ### **Weather App - Project Summary**  
 The **Weather App** is a web-based application that provides real-time weather updates based on user input. The app features a dynamic day/night mode with visual effects, including moving clouds during the day and twinkling stars at night.  
